@@ -16,6 +16,10 @@
 
 This starts your app in development mode, rebuilding assets on file changes.
 
+## Hosting
+
+To view this form in an environment you can you use following url: https://cloudcase-coding-challenge.web.app
+
 ## Assumptions
 
 - Employees salary is set by admin before onboarding form is sent to end user. (this can be changed within the code by changing the constant `EMPLOYEE_SALARY`)

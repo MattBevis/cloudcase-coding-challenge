@@ -39,7 +39,7 @@ export default function App() {
             </>
           ) : (
             <Form layout="vertical" onFinish={onSubmit}>
-              <Form.Item disabled label="Employee Number" name="employeeNumber">
+              <Form.Item  label="Employee Number" name="employeeNumber">
                 <Input disabled defaultValue={1} />
               </Form.Item>
               <Form.Item
