@@ -18,7 +18,7 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 ## Hosting
 
-To view this form in an environment you can you use following url: https://cloudcase-coding-challenge.web.app
+To view this form in a hosted environment you can you use following url: https://cloudcase-coding-challenge.web.app
 
 ## Assumptions
 
