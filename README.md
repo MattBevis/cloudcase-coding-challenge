@@ -18,7 +18,7 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 ## Hosting
 
-To view this form in a hosted environment you can you use following url: https://cloudcase-coding-challenge.web.app.. The salary deploye with this version is $250000. 
+To view this form in a hosted environment you can you use following url: https://cloudcase-coding-challenge.web.app.. The salary deployed with this version is $250000. 
 
 ## Assumptions
 
