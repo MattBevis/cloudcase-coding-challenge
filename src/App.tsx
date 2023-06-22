@@ -26,7 +26,7 @@ export default function App() {
             <>
               <h1>Salary Information</h1>
               <ul>
-                <li>Salary: {EMPLOYEE_SALARY}</li>
+                <li>Salary: ${EMPLOYEE_SALARY}</li>
                 <li>Tax: ${tax.toFixed(2)}</li>
                 <li>Superannuation: ${supa.toFixed(2)}</li>
               </ul>
