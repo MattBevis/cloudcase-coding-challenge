@@ -18,7 +18,7 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 ## Hosting
 
-To view this form in a hosted environment you can you use following url: https://cloudcase-coding-challenge.web.app.. The salary deployed with this version is $250000. 
+To view this form in a hosted environment you can you use following url: https://cloudcase-coding-challenge.web.app. The salary deployed with this version is $250000. 
 
 ## Assumptions
 
@@ -36,9 +36,9 @@ To view this form in a hosted environment you can you use following url: https:/
 
 - I have kept the fields filled out on the onboarding form really light to prevent the barrier of using the system really low
 - I have marked all required fields with a red astrix to show the user that they are required
-- I have disbaled the employee number as that cannot be edited.
-- Gender is a radio button group as free text would open up the system to unwanted values.
-- If more fields were to be required i.e address information/contact information from the get go, I would turn the onboarding form into a multi-step wizard to make the input more digestable.
+- I have diabled the employee number as that cannot be edited.
+- The gender input is a radio button group because we are looking for specific values i.e Male/Female.
+- If more fields were to be required i.e address information/contact information from the get go, I would turn the onboarding form into a multi-step wizard digestable. I would also group te steps by section ie Personal Information, Contact Details, Address Information.
 - Fields are aligned vertically to make reading down the page easier
 - On submit of the form you will be shown your results, if reset is clicked you will be shown the form again. (This would not happen in a production environment)
 
